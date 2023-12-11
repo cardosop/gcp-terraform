@@ -1,6 +1,6 @@
 resource "google_storage_bucket" "my-bucket" {
   name          = "cardosop-github-demo-bucket"
-  project       = "gcp-devops"
+  project       = "gcp-devops-402516"
   location      = "US"
   force_destroy = true
 
