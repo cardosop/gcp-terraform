@@ -6,4 +6,3 @@ resource "google_storage_bucket" "my-bucket" {
 
   public_access_prevention = "enforced"
 }
-#
